@@ -387,47 +387,31 @@
     - title: Twitter
       icon: twitter
       url: https://twitter.com/javiexpo
-      
-- name: Eat - Restaurant Review
-  banner: https://i.imgur.com/A7VL0Ki.jpg
+
+- name: Restaurant Reviews
+  banner: https://github.com/R-H-T/mws-restaurant-stage-1/raw/master/r-h-t_mws_restaurant_reviews_fhd.png
   links:
     - title: Github
       icon: github
-      url: https://github.com/tatiana-passarella/my-progressive-web-app
+      url: https://github.com/R-H-T/mws-restaurant-stage-1/
+
   description: |
-    Eat is a web app to choose what you want, wherever you are!
+    Restaurant Reviews is a fully Responsive, Accessible, Progressive Web Application (PWA)
+    optimized for speed and performance with a true Offline-First experience.
     
-  author: Tatiana Passarella
-  author_links:
-    - title: GitHub
-      icon: github
-      url: https://github.com/tatiana-passarella
-    - title: LinkedIn
-      icon: linkedin
-      url: https://www.linkedin.com/in/tatianapassarella/
-  author_location: Rome, Italy
-  author_avatar: https://avatars1.githubusercontent.com/u/9866088?s=460&v=4
-      
-- name: Restaurant Review App
-  banner: https://i.imgur.com/IxQ3uPP.png
-  links:
-    - title: Github
-      icon: github
-      url: https://github.com/red17electro/mws-restaurant
-      
-  description: |
-    A Restaurant Reviews Project, which I implemented for Udacity Web Specialist Nanodegree.
-    
-  author: Server Khalilov
-  author_avatar: https://avatars2.githubusercontent.com/u/16454623?s=460&v=4
-  author_location: Kaiserslautern, Germany
-  author_links:
-    - title: GitHub
-      icon: github
-      url: https://github.com/red17electro
-    - title: LinkedIn
-      icon: linkedin
-      url: https://www.linkedin.com/in/serverkhalilov/
-    - title: Instagram
-      icon: instagram
-      url: https://www.instagram.com/red17electro/
+author: Roberth Hansson-Tornéus
+author_location: Bangkok, Thailand
+author_location: Shenzhen, China
+author_location: Kowloon, Hong Kong
+author_location: Umea, Sweden
+author_links:
+  - title: GitHub
+    icon: github
+    url: https://github.com/R-H-T
+  - title: LinkedIn
+    icon: linkedin
+    url: https://www.linkedin.com/in/roberth-hansson-tornéus
+  - title: Twitter
+    icon: twitter
+    url: https://twitter.com/iEngineerIT
+      - title: Twitter
